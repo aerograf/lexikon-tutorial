@@ -12,11 +12,11 @@ Tutorial Version 1.0
             
 ## User Manual
 
-© 2016 XOOPS Project ([www.xoops.org](http://xoops.org))  
+© 2017 XOOPS Project ([www.xoops.org](http://xoops.org))  
 
 ## Module Purpose 
 
-This module module to create a glossary ordered by category, with users participation who - based on permissions - are allowed to send definitions or request new entries.
+This module is for creating a glossary ordered by category, with users participation who - based on permissions - are allowed to provide definitions or request new entries.
 
 ![image001.png](assets/image001.png)
 *Figure 1: Main view of the Lexikon Module (Admin side)*
