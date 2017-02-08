@@ -19,13 +19,4 @@ Social Bookmark Icons          -> http://www.iconarchive.com
 some icons are licenced to Creative Commons Attribution-ShareAlike 2.0.
 
 
-Version 1.51 was updated to XOOPS 2.5.x Standard GUI by Michael Beck (Mamba).
-
-## Tutorial Credits
-
-This tutorial was created by Michael Beck (aka Mamba)
-
-
-## Translation Credits
-
-Russian: Nikolay Shmelev (aka aerograf)
+Version 1.51 was updated to XOOPS 2.5.x Standard GUI by Michael Beck (Mamba), who also started this tutorial.
